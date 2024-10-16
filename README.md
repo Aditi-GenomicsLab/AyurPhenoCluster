@@ -23,3 +23,5 @@
 **Table S4:** Diseases in EM clusters (AyurPhenoClusters) with associated genes
 
 **Table S5:** Overlapping genes between EM clusters (AyurPhenoClusters) to known genes of ciliopathy from CiliaMiner and CiliaCarta database
+
+**Table S6:** GeneOrganizer anlysis for cilliary genes from cluster C0 and C4.
